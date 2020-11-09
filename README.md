@@ -8,17 +8,17 @@ We can talk about:
 
 <table>
 <tr>
-<td style="text-align: center;">Awesome things about ReactJs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React" /></td>
-<td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular" /></td>
+<td style="text-align: center;">The Awesome ReactJs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
+<td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
 <td style="text-align: center;">Javascript usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript" /></td>
 <td style="text-align: center;">Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP" /></td>
 <td style="text-align: center;">AC::zap:DC song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify" /></td>
 </tr>
 </table>
 
-
+  <br>
   Do you have something in mind? Contact me:
-  
+  <br>
 <table>
   <tr>
     <td>
