@@ -8,16 +8,11 @@ We can talk about:
 
 <table>
 <tr>
-<td style="text-align: center;">The Awesome ReactJs<br><br>
-  <img style='display: block; margin-left: auto; margin-right: auto;' src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React" /></td>
-<td style="text-align: center;">Angular Stuffs<br><br>
-  <img style='display: block; margin-left: auto; margin-right: auto;' src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular" /></td>
-<td style="text-align: center;">Javascript usages<br><br>
-  <img style='display: block; margin-left: auto; margin-right: auto;' src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript" /></td>
-<td style="text-align: center;">Memories of PHP<br><br>
-  <img style='display: block; margin-left: auto; margin-right: auto;' src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP" /></td>
-<td style="text-align: center;">AC::zap:DC song's :heart:<br><br>
-  <img style='display: block; margin-left: auto; margin-right: auto;' src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify" /></td>
+<td style="text-align: center;">ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React" /></td>
+<td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular" /></td>
+<td style="text-align: center;">Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript" /></td>
+<td style="text-align: center;">Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP" /></td>
+<td style="text-align: center;">AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify" /></td>
 </tr>
 </table>
 
