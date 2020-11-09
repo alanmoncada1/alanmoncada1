@@ -18,7 +18,7 @@ We can talk about:
 
   <br>
   Do you have something in mind? Contact me:
-  <br>
+  <br><br>
   
 <table>
   <tr>
