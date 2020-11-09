@@ -8,11 +8,11 @@ We can talk about:
 
 <table>
 <tr>
-<td style="text-align: center;">Awesome things about ReactJs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React" /></td>
-<td style="text-align: center;">Angular Stuffs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="135" title="Angular" /></td>
-<td style="text-align: center;">Javascript usages<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="120" title="JavaScript" /></td>
-<td style="text-align: center;">Memories of PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
-<td style="text-align: center;">AC::zap:DC song's :heart:<img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify" /></td>
+<td style="text-align: center;">Awesome things about ReactJs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React" /></td>
+<td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular" /></td>
+<td style="text-align: center;">Javascript usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript" /></td>
+<td style="text-align: center;">Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP" /></td>
+<td style="text-align: center;">AC::zap:DC song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify" /></td>
 </tr>
 </table>
 
@@ -21,13 +21,13 @@ We can talk about:
   
 <table>
   <tr>
-    <td style="text-align: center;">
-      <a href='https://twitter.com/alanmoncadav'>
-        Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /></a>
+    <td>
+      <a href='https://twitter.com/alanmoncadav'  style="text-align: center;">
+        Twitter<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /></a>
     </td>
-    <td style="text-align: center;">
-      <a href='https://www.linkedin.com/in/amoncadav'>
-        LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" />
+    <td>
+      <a href='https://www.linkedin.com/in/amoncadav'  style="text-align: center;">
+        LinkedIn<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" />
       </a>
     </td>
   </tr>
