@@ -6,7 +6,7 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table style='align-content: center;'>
+<table style='display: flex; align-content: center;'>
 <tr>
 <td style="text-align: center;">ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 <td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
@@ -20,7 +20,7 @@ We can talk about:
   Do you have something in mind? Contact me:
   <br><br>
   
-<table>
+<table style='display: flex; align-content: center;'>
   <tr>
     <td>
       <a href='https://twitter.com/alanmoncadav'  style="text-align: center;">
