@@ -6,13 +6,13 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table style='display: flex; align-content: center;'>
-<tr>
-<td style="text-align: center;">ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
-<td style="text-align: center;">Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
-<td style="text-align: center;">Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
-<td style="text-align: center;">Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
-<td style="text-align: center;">AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td>
+<table style='center-content'>
+<tr class='text-center'>
+<td>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
+<td>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
+<td>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
+<td>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
+<td>AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td>
 </tr>
 </table>
 
@@ -20,7 +20,7 @@ We can talk about:
   Do you have something in mind? Contact me:
   <br><br>
   
-<table style='display: flex; align-content: center;'>
+<table class='center-content'>
   <tr>
     <td>
       <a href='https://twitter.com/alanmoncadav'  style="text-align: center;">
@@ -35,3 +35,15 @@ We can talk about:
 </table>
 
 Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence Eden</a>
+
+
+<style>
+  .center-content {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+</style>
