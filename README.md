@@ -6,7 +6,7 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table styl='style='margin-left: auto; margin-right: auto;'>
+<table style='margin-left: auto; margin-right: auto;'>
 <tr>
 <td>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 <td>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
