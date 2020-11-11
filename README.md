@@ -6,8 +6,8 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table class='center-content'>
-<tr class='text-center'>
+<table style='margin-left: auto; margin-right: auto;'>
+<tr style='text-align: center;'>
 <td>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 <td>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
 <td>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
@@ -20,7 +20,7 @@ We can talk about:
   Do you have something in mind? Contact me:
   <br><br>
   
-<table class='center-content'>
+<table style='margin-left: auto; margin-right: auto;'>
   <tr>
     <td>
       <a href='https://twitter.com/alanmoncadav'  style="text-align: center;">
@@ -35,15 +35,3 @@ We can talk about:
 </table>
 
 Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence Eden</a>
-
-
-<styles>
-  center-content {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  text-center {
-    text-align: center;
-  }
-</styles>
