@@ -6,7 +6,7 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table style='center-content'>
+<table class='center-content'>
 <tr class='text-center'>
 <td>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 <td>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
@@ -37,7 +37,7 @@ We can talk about:
 Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence Eden</a>
 
 
-<style>
+<styles>
   .center-content {
     margin-left: auto;
     margin-right: auto;
@@ -46,4 +46,4 @@ Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence 
   .text-center {
     text-align: center;
   }
-</style>
+</styles>
