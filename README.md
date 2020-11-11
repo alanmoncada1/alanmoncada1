@@ -38,12 +38,12 @@ Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence 
 
 
 <styles>
-  .center-content {
+  center-content {
     margin-left: auto;
     margin-right: auto;
   }
   
-  .text-center {
+  text-center {
     text-align: center;
   }
 </styles>
