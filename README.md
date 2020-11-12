@@ -2,7 +2,7 @@ Greetings!
 
 IT Profesional Services Consultant @<a href='https://www.osaasllc.com/'>OSAASLLC</a>
 
-We can work together solving crisis in our localities, neighborhoods or countries with powerful and brilliant solutions :sparkles: while having fun burning everything :fire:
+We can work together solving crisis in our localities, neighborhoods or countries with powerful and brilliant solutions :brain: while having fun burning everything :fire:
 
 We can talk about: 
 
@@ -12,7 +12,7 @@ We can talk about:
 <td style='text-align: center;'>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
 <td style='text-align: center;'>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
 <td style='text-align: center;'>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
-<td style='text-align: center;'>AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td> 
+<td style='text-align: center;'>AC::zap:DC Song's<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td> 
 </tr>
 </table>
 
