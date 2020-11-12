@@ -1,4 +1,4 @@
-Hello everyone.
+Greetings!
 
 IT Profesional Services Consultant @<a href='https://www.osaasllc.com/'>OSAASLLC</a>
 
@@ -34,4 +34,4 @@ We can talk about:
   </tr>
 </table>
 
-Icons Sponsor :eyes:  <a href='https://github.com/edent/SuperTinyIcons'>Terence Eden</a>
+Icons Sponsor :sunglasses: <a href='https://github.com/edent/SuperTinyIcons'>Terence Eden</a>
