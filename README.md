@@ -1,6 +1,6 @@
 <H1>Greetings!</H1>
 
-IT Profesional Services Consultant @<a href='https://www.osaasllc.com/'>OSAASLLC</a>
+I'm an IT Profesional Services Consultant @<a href='https://www.osaasllc.com/'>OSAASLLC</a>
 
 We can work together solving crisis in our localities, neighborhoods or countries with powerful and brilliant solutions :brain: while having fun burning everything :fire:
 
