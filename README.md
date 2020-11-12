@@ -6,13 +6,13 @@ We can work together solving crisis in our localities, neighborhoods or countrie
 
 We can talk about: 
 
-<table style='margin-left: 50%; margin-right: 50%;'>
+<table>
 <tr>
-<td>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
-<td>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
-<td>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
-<td>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
-<td>AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td>
+<td style='text-align: center;'>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
+<td style='text-align: center;'>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
+<td style='text-align: center;'>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /></td>
+<td style='text-align: center;'>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
+<td style='text-align: center;'>AC::zap:DC Song's :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td> 
 </tr>
 </table>
 
