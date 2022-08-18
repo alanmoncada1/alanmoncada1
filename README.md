@@ -11,7 +11,7 @@ We can talk about:
 <td style='text-align: center;'>ReactJs Gossips<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /></td>
 <td style='text-align: center;'>Angular Stuffs<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /></td>
 <td style='text-align: center;'>Javascript Usages<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" />
-<td style='text-align: center;'>How beautiful is Ruby and RoR :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="JavaScript" /></td>
+<td style='text-align: center;'>How beautiful is<br>Ruby and RoR :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="JavaScript" /></td>
 </td>
 <td style='text-align: center;'>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
 <td style='text-align: center;'>AC::zap:DC Song's<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td> 
