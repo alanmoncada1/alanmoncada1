@@ -1,8 +1,8 @@
 <H1>Greetings!</H1>
 
-I'm an appasionate about software
+Hello! 👋🏼
 
-I'm a person who enjoys build somethig a throught an evening saturday, If you want we can work together solving crisis in our localities, neighborhoods or countries with powerful and brilliant solutions :brain: while having fun burning everything :fire:
+I'm Alan, an artist, designer, code lover and engineer building weird projects for the web.
 
 We can talk about: 
 
