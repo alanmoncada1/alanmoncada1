@@ -14,6 +14,7 @@ We can talk about:
 <td style='text-align: center;'>How beautiful is<br>Ruby and RoR :heart:<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="JavaScript" /></td>
 </td>
 <td style='text-align: center;'>Memories of PHP<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /></td>
+<td style='text-align: center;'>Interesting Python uses<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="PHP" /></td>
 <td style='text-align: center;'>AC::zap:DC Song's<br><br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /></td> 
 </tr>
 </table>
